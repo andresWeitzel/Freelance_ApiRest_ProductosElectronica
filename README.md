@@ -27,8 +27,8 @@
 
 </br>
 
-### Proyectos Api Rest
-* Posterior al desarrollo mencionado he decidido comenzar algunas api's rest con similar desarrollo y temática incluyendo el servicio de seguridad con Spring Security y Json Web Token. Se anexan los siguientes Repositorios
+### Proyectos personales Api Rest
+* Las siguientes Api's Rest siguen un principio similar al desarrollado en el desarrollo. Algunas implementan el módulo de seguridad con Spring Security y JWT.
 
 * Api Rest acerca de Productos de Electrónica (uso casi idéntico de tecnologías) : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB.
 * Api Rest acerca de Productos de Supermercado : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado.
