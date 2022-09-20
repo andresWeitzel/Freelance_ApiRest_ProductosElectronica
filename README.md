@@ -3,7 +3,7 @@
 ### Descripción 
 
 * Este desarrollo freelance se ha culminado a finales del 2021 (fines de Octubre hasta mediados de diciembre) y se realizó a cambio de una remuneración (Transferencia vía paypal) por parte de un Cliente Colombiano contactado a través de un anuncio por Facebook.
-* Por temas de DERECHO INTELECTUAL, PAGO TOTAL DEL SERVICIO DESARROLLADO Y ÉTICOS no se anexa código fuente.
+* Por temas de `DERECHO INTELECTUAL, PAGO TOTAL DEL SERVICIO DESARROLLADO Y ÉTICOS NO SE ANEXA CÓDIGO FUENTE DEL DESARROLLO`.
 * La tarea asignada constó en desarrollar parte de una Api Rest (productos, especificaciones técnicas, ventas, transferencias y clientes) y depurar parte de la base de datos para dichas Colleciones (Modificación de campos, nombres, etc). Parte de dicha Api se implementaría para un proyecto Ecommerce para una tienda de electrónica.
 * Contexto : El cliente (Desarrollador Freelance) presenta el esquema general de lo que necesita desarrollar junto con la base de datos madura. A partir de ahí se organiza la lógica a implementar y se procede a la modificación de la parte de la db asignada para el posterior desarrollo de la parte de la Api asignada. Cabe aclarar que el servicio solicitado parte en base a desconocer el stack de tecnología backend asignado. 
 * Esta se ha implementado con Spring Boot, Spring MVC, Spring Data, Maven, Swagger v2, Lombok, Log4j, STS, MongoDB Compass, MongoDB, Git y Otras Tecnologías.
