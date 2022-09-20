@@ -30,10 +30,10 @@
 ### Proyectos Api Rest
 * Posterior al desarrollo mencionado he decidido comenzar algunas api's rest con similar desarrollo y temática incluyendo el servicio de seguridad con Spring Security y Json Web Token. Se anexan los siguientes Repositorios
 
-#### Api Rest acerca de Productos de Electrónica (uso casi idéntico de tecnologías) : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB.
-#### Api Rest acerca de Productos de Supermercado : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado.
-#### Api Rest Componentes de Microelectrónica : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle.
-#### Otros (Perfíl Github).
+* Api Rest acerca de Productos de Electrónica (uso casi idéntico de tecnologías) : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB.
+* Api Rest acerca de Productos de Supermercado : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado.
+* Api Rest Componentes de Microelectrónica : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle.
+* Otros (Perfíl Github).
 
 
 ### Ejemplo Gráfico Api Rest Productos de Supermercado.
