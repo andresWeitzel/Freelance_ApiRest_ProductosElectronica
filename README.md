@@ -23,7 +23,7 @@
 
 * Cada Endpoint implementa todos los recursos asignados siguiendo las buenas prácticas para Servicios REST.
 
-</hr>
+<hr>
 
 </br>
 
@@ -36,7 +36,8 @@
 #### Otros (Perfíl Github).
 
 
-#### Imágenes de las Api's anexadas.
+### Ejemplo Gráfico Api Rest Productos de Supermercado.
+
 </br>
 
 ### Descripción Api Rest
