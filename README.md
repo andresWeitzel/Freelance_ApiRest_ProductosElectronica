@@ -21,7 +21,7 @@
 * https://x.co/api/v1.0/servicios/ventas/
 * https://x.co/api/v1.0/gestion/clientes
 
-* Cada Endpoint implementa todos los recursos asignados siguiendo las buenas prácticas para Servicios REST.
+* En todos los endpoint se desarrollaron los recursos pertinentes a cada funcionalidad requerida siguiendo las buenas prácticas para Servicios REST.
 
 <hr>
 
