@@ -1,5 +1,7 @@
 # Freelance_ApiRest_ProductosElectronica
 
+### Descripción 
+
 * Este desarrollo freelance se ha culminado a finales del 2021 (fines de Octubre hasta mediados de diciembre) y se realizó a cambio de una remuneración (Transferencia vía paypal) por parte de un Cliente Colombiano contactado a través de un anuncio por Facebook.
 * Por temas de DERECHO INTELECTUAL, PAGO TOTAL DEL SERVICIO DESARROLLADO Y ÉTICOS no se anexa código fuente.
 * La tarea asignada constó en desarrollar parte de una Api Rest (productos, especificaciones técnicas, ventas, transferencias y clientes) y depurar parte de la base de datos para dichas Colleciones (Modificación de campos, nombres, etc). Parte de dicha Api se implementaría para un proyecto Ecommerce para una tienda de electrónica.
@@ -25,12 +27,42 @@
 
 </br>
 
-#### Desarrollo Personal Similar
+### Proyectos Api Rest
 * Posterior al desarrollo mencionado he decidido comenzar algunas api's rest con similar desarrollo y temática incluyendo el servicio de seguridad con Spring Security y Json Web Token. Se anexan los siguientes Repositorios
 
 #### Api Rest acerca de Productos de Electrónica (uso casi idéntico de tecnologías) : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB.
 #### Api Rest acerca de Productos de Supermercado : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado.
 #### Api Rest Componentes de Microelectrónica : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle.
+#### Otros (Perfíl Github).
+
+
+#### Imágenes de las Api's anexadas.
+</br>
+
+### Descripción Api Rest
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/description.png)
+
+### Response Modelo Códigos Http
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/httpCodeSwagger01.png)
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/httpCodeSwagger02.png)
+
+### Beans Validations 
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/beanValidations.png)
+
+
+### Recursos por Endpoint
+
+### Producto Controller. 
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/productoController.png)
+
+
+### Usuario Controller. 
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/usuarioController.png)
+
+
+### Auth Controller. 
+![Index app](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/authController.png)
+
 
 
 
